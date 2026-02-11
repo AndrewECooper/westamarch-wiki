@@ -54,8 +54,10 @@ The deep mysteries and background of the setting:
 - [The Greenheart](/lore/the-greenheart)
 - [The Binding](/lore/the-binding)
 - [The Greenwood Pact](/lore/the-greenwood-pact)
-- [The Anchor Stones](/lore/the-anchor-stones)
-- [The Fey Courts](/lore/the-fey-courts)
+- [The Anchor Stones](/lore/anchor-stones/overview)
+- [Places of Power](/lore/places-of-power/overview)
+- [The Fey](/lore/the-fey)
+- [Knowledge Tiers](/lore/knowledge-tiers)
 
 ### [History](/history)
 The timeline and major events:
