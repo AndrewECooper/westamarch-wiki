@@ -83,3 +83,4 @@ The Tess-Kydra might still be there.
 ---
 
 **Previous:** [Session 2: Into the Thornwood](/sessions/session-2-into-the-thornwood)
+**Next:** [Session 4: Questions and Alliances](/sessions/session-4-questions-and-alliances)

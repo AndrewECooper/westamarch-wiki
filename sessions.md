@@ -2,7 +2,7 @@
 title: Session Logs
 description: Chronicle of the Westmarch campaign sessions
 published: true
-date: 2026-02-11T21:00:00.000Z
+date: 2026-03-11T21:00:00.000Z
 tags: session, index
 editor: markdown
 dateCreated: 2026-02-11T21:00:00.000Z
@@ -18,7 +18,7 @@ A chronicle of the campaign, documenting the party's journey from their first me
 
 **Starting Date:** Greenleaf 14th, 1247
 
-**Current Date:** Greenleaf 24th, 1247
+**Current Date:** Greenleaf 28th, 1247
 
 ---
 
@@ -86,6 +86,28 @@ At the fey-touched Pools, the party learns terrible truths about the city's foun
 
 ---
 
+### [Session 4: Questions and Alliances](/sessions/session-4-questions-and-alliances)
+
+**Date:** Greenleaf 25th-28th, 1247
+
+Back in Westmarch, the party split up to pursue their own leads before reconvening to make a plan.
+
+**Key Events:**
+- Quill researched alternatives to Harrow Keep and discovered the Tess-Kydra originated from Celindara, an ancient elven city swallowed by the Thornwood during the Green War
+- Old maps in the Archive show Celindara's location, but it's a week or two deep into the forest
+- Lyrique reported to Lord Brennan about Lady Oona and Kaelen's vision; Brennan claimed not to recognize the wardstone and warned against trusting the Fey
+- Lyrique began having small doubts about her patron
+- Kaelen learned from Archdruid Theron that the fey woman was Lady Oona and that she was dangerous
+- Theron admitted he knew about the wardstones but refused to share—he didn't trust all of Kaelen's companions (implying Lyrique, because of Brennan)
+- The party met at the Archive to plan; Lady Sera arrived and joined the conversation
+- The party tried to subtly gauge if the Duke knew about the stones; Sera saw through them immediately
+- Sera offered a deal: she would arrange an audience with the Duke if the party took her to Harrow Keep
+- The party agreed
+
+**Outcome:** The party has gained a potential ally in Lady Sera and a path to the Duke, but at the cost of bringing the Duke's daughter into danger. Cracks are forming—Lyrique is beginning to doubt Brennan, and Theron's distrust of the party's loyalties has been made explicit.
+
+---
+
 ## Major Revelations
 
 **What the Party Has Learned:**
@@ -94,8 +116,11 @@ At the fey-touched Pools, the party learns terrible truths about the city's foun
 - The stones suppress the forest's vision and perception
 - Duke Aldric knows about the stones and is trying to maintain something called "The Great Vow"
 - Repairing the stones requires Source Stone (retrieved) and the Tess-Kydra (not yet retrieved)
+- The Tess-Kydra originated from Celindara, an ancient elven city lost to the Thornwood during the Green War
 - The Fey believe the Greenwood Pact contains "an imbalance in the bargain"
+- The Fey Folk have a very different view of the Greenwood Pact than the humans
 - More than one person in Westmarch knows the truth but they aren't talking to each other
+- Archdruid Theron knows about the wardstones but doesn't trust the party's loyalties enough to share
 - Quill's curse is connected to all of this somehow—Lady Oona knows why but finds his suffering too entertaining to reveal
 
 **What They Don't Know:**
@@ -109,14 +134,20 @@ At the fey-touched Pools, the party learns terrible truths about the city's foun
 
 ## Current Situation
 
-**Date:** Greenleaf 24th, 1247
+**Date:** Greenleaf 28th, 1247
 
-The ward on the Warren Stone is holding, but it's a temporary containment. The party has the Source Stone needed for physical repair, but lacks the Tess-Kydra required to recharge the stone's magic.
+The ward on the Warren Stone is holding, but it's a temporary containment. The party has the Source Stone needed for physical repair, but lacks the Tess-Kydra required to recharge the stone's magic. Lady Sera has agreed to arrange an audience with the Duke in exchange for accompanying the party to Harrow Keep.
 
-**Next Mission:** Journey to Harrow Keep and retrieve the Tess-Kydra from the Poison Scale kobolds.
+**Immediate Plans:**
+- Audience with Duke Aldric (arranged by Lady Sera)
+- Journey to Harrow Keep to retrieve the Tess-Kydra from the Poison Scale kobolds
+- Celindara remains a possible alternative destination, though much farther away
 
 **Complications:**
 - Lord Brennan knows everything the party knows through Lyrique's reports
+- Lyrique is beginning to have doubts about Brennan
+- Archdruid Theron doesn't trust the party's loyalties—specifically Lyrique's connection to Brennan
+- Lady Sera is now coming to Harrow Keep, putting the Duke's daughter in danger
 - High Ranger Mira has advised keeping the Duke's vision quiet
 - The Binding continues to weaken
 - Time is running out
