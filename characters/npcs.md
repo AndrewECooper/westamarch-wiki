@@ -74,6 +74,7 @@ Economic leaders representing commercial interests.
 Adventurers and explorers venturing into dangerous places.
 
 - [Guildmaster Torven Blackoak](/characters/npcs/torven-blackoak) — Former Ranger who now leads the Delvers, pragmatic and profit-driven
+- [Wynn Copper](/characters/npcs/wynn-copper) — Cheerful mercenary and self-appointed protector of Lyrique
 
 ---
 

@@ -2,7 +2,7 @@
 title: Lady Sera Westmarch
 description: Duke's daughter and heir, intelligent scholar of magic and history
 published: true
-date: 2026-02-11T21:00:00.000Z
+date: 2026-03-11T21:00:00.000Z
 tags: npc, nobility, house-westmarch
 editor: markdown
 dateCreated: 2026-02-11T21:00:00.000Z
@@ -14,7 +14,7 @@ dateCreated: 2026-02-11T21:00:00.000Z
 Duke's daughter and heir
 
 ## Race and Age
-Human, 26 years old
+Human, 20 years old
 
 ## Location
 [The Citadel](/locations/westmarch/the-citadel)
@@ -44,3 +44,27 @@ Lady Sera has received extensive education befitting an heir to House Westmarch,
 
 ## The Burden Yet to Come
 As heir to House Westmarch, Sera will one day need to learn the truth about what her family truly guards—but for now, her father keeps her in the dark, perhaps hoping to give her a few more years of peace before she must shoulder that terrible knowledge.
+
+---
+
+## Stat Block
+
+*Medium humanoid, noblewoman arcanist*
+
+**AC** 13 (arcane ward) | **HP** 22 (4d8 + 4) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 8 (-1) | 12 (+1) | 12 (+1) | 16 (+3) | 10 (+0) | 14 (+2) |
+
+**Saving Throws** INT +5, CHA +4
+**Skills** Arcana +5, History +5, Persuasion +4, Insight +2
+**Languages** Common, Elvish, Arcane
+
+**Arcane Bolt.** *Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 7 (1d8 + 3) force damage.
+
+### Special Abilities
+
+**Shielding Rune (Recharge 5–6).** As a reaction when she or a creature within 10 feet is hit by an attack, Sera conjures a barrier of arcane glyphs. The target gains +3 AC against the triggering attack and any subsequent attacks until the start of Sera's next turn.
+
+**Concussive Blast (2/Rest).** Sera releases a burst of force in a 15-foot cone. Each creature in the area must make a DC 13 CON save or take 2d8 force damage and be pushed 10 feet. On a success, half damage and no push.
