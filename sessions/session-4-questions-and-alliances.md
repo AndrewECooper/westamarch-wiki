@@ -49,3 +49,4 @@ They agreed.
 ---
 
 **Previous:** [Session 3: The Singing Pools](/sessions/session-3-the-singing-pools)
+**Next:** [Session 5: Things Stir](/sessions/session-5-things-stir)

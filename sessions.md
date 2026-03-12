@@ -2,7 +2,7 @@
 title: Session Logs
 description: Chronicle of the Westmarch campaign sessions
 published: true
-date: 2026-03-11T21:00:00.000Z
+date: 2026-03-12T21:00:00.000Z
 tags: session, index
 editor: markdown
 dateCreated: 2026-02-11T21:00:00.000Z
@@ -108,6 +108,27 @@ Back in Westmarch, the party split up to pursue their own leads before reconveni
 
 ---
 
+### [Session 5: Things Stir](/sessions/session-5-things-stir)
+
+**Date:** Greenleaf 28th, 1247
+
+Animated plant creatures attack the Greenmark market as the party prepares for their journey to Harrow Keep.
+
+**Key Events:**
+- The party gathered supplies for the journey; Sera revealed the Duke wears a mysterious vial meant to be passed down to her
+- Animated shrub creatures burst from a warded park in the Greenmark, attacking a farmers market
+- Kaelen, Lyrique, and Sera fought the creatures; Sera proved her worth with arcane bolts
+- A massive tree creature emerged from the park
+- Wynn Copper, a Delver's Guild guard, arrived and joined the fight
+- Kaelen dealt 33 damage to the tree creature; Wynn finished it off after shielding Kaelen from its attack
+- Sera examined the park ward—still active but possibly weakened; motes of light from the mist are animating plant life, just like the incident in the Warrens
+- Lyrique hired Wynn to accompany them to Harrow Keep
+- Kaelen recalled that kobolds are weak individually but dangerous in numbers, with specialized magic users and alchemists
+
+**Outcome:** The party gained a frontline fighter in Wynn Copper and witnessed further evidence that the Binding is failing—the mist is now breaching wards in the Greenmark, not just the Warrens. The situation in Westmarch is deteriorating.
+
+---
+
 ## Major Revelations
 
 **What the Party Has Learned:**
@@ -121,6 +142,9 @@ Back in Westmarch, the party split up to pursue their own leads before reconveni
 - The Fey Folk have a very different view of the Greenwood Pact than the humans
 - More than one person in Westmarch knows the truth but they aren't talking to each other
 - Archdruid Theron knows about the wardstones but doesn't trust the party's loyalties enough to share
+- The Duke wears a mysterious vial around his neck, meant to be passed down to Sera
+- The mist is now breaching wards beyond the Warrens—animated plant creatures attacked the Greenmark
+- Kobolds are weak individually but swarm in numbers and employ specialized magic users and alchemists
 - Quill's curse is connected to all of this somehow—Lady Oona knows why but finds his suffering too entertaining to reveal
 
 **What They Don't Know:**
@@ -136,18 +160,28 @@ Back in Westmarch, the party split up to pursue their own leads before reconveni
 
 **Date:** Greenleaf 28th, 1247
 
-The ward on the Warren Stone is holding, but it's a temporary containment. The party has the Source Stone needed for physical repair, but lacks the Tess-Kydra required to recharge the stone's magic. Lady Sera has agreed to arrange an audience with the Duke in exchange for accompanying the party to Harrow Keep.
+The ward on the Warren Stone is holding, but it's a temporary containment. The mist is now breaching wards in the Greenmark as well—the crisis is spreading. The party has the Source Stone needed for physical repair, but lacks the Tess-Kydra required to recharge the stone's magic.
+
+The party has recruited Wynn Copper as a frontline fighter and is preparing to depart for Harrow Keep with Lady Sera in tow.
 
 **Immediate Plans:**
-- Audience with Duke Aldric (arranged by Lady Sera)
 - Journey to Harrow Keep to retrieve the Tess-Kydra from the Poison Scale kobolds
+- Audience with Duke Aldric upon return (arranged by Lady Sera)
 - Celindara remains a possible alternative destination, though much farther away
+
+**The Party:**
+- [Kaelen Vale](/characters/player-characters/kaelen-vale) — Ranger and scout
+- [Lyrique](/characters/player-characters/lyrique) — Bard and face
+- [Quill](/characters/player-characters/quill) — Researcher (status for this expedition unclear)
+- [Lady Sera](/characters/npcs/lady-sera) — Noblewoman arcanist, the Duke's daughter
+- [Wynn Copper](/characters/npcs/wynn-copper) — Delver's Guild mercenary, frontline fighter
 
 **Complications:**
 - Lord Brennan knows everything the party knows through Lyrique's reports
 - Lyrique is beginning to have doubts about Brennan
 - Archdruid Theron doesn't trust the party's loyalties—specifically Lyrique's connection to Brennan
-- Lady Sera is now coming to Harrow Keep, putting the Duke's daughter in danger
+- Lady Sera is coming to Harrow Keep, putting the Duke's daughter in danger
+- The mist is breaching wards beyond the Warrens—the situation in the city is deteriorating
 - High Ranger Mira has advised keeping the Duke's vision quiet
 - The Binding continues to weaken
 - Time is running out
