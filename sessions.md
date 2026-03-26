@@ -2,7 +2,7 @@
 title: Session Logs
 description: Chronicle of the Westmarch campaign sessions
 published: true
-date: 2026-03-12T21:00:00.000Z
+date: 2026-03-25T21:00:00.000Z
 tags: session, index
 editor: markdown
 dateCreated: 2026-02-11T21:00:00.000Z
@@ -18,7 +18,7 @@ A chronicle of the campaign, documenting the party's journey from their first me
 
 **Starting Date:** Greenleaf 14th, 1247
 
-**Current Date:** Greenleaf 28th, 1247
+**Current Date:** Greenleaf 30th, 1247
 
 ---
 
@@ -129,6 +129,27 @@ Animated plant creatures attack the Greenmark market as the party prepares for t
 
 ---
 
+### [Session 6: The Road to Harrow Keep](/sessions/session-6-the-road-to-harrow-keep)
+
+**Date:** Greenleaf 30th, 1247
+
+The party sets out for Harrow Keep with new allies and faces the dangers of the deep Thornwood.
+
+**Key Events:**
+- Wynn introduced his friend Thalia, a halfling rogue and former city watch investigator
+- Drakov, a red Dragonborn cleric of Bahamut, joined as a bodyguard for Lady Sera, sent by his temple's high priest
+- The party organized travel roles; Kaelen hunted a deer and Wynn cooked it into stew
+- An ogre attacked the camp the next morning, dropping Sera unconscious and injuring Drakov
+- Quill turned the tide with a devastating *Shattering Barrage*; Wynn landed the killing blow
+- The party looted 42 gold, a Potion of Diminution, and a Potion of Resistance (Poison)
+- Thalia spotted a kobold ambush; Quill neutralized three with *Sleep* and Kaelen restrained the rest with *Entangle*
+- The kobolds fought back with poison darts, *Magic Missile*, and poison gas before the last survivor surrendered to Drakov
+- The party took kobold prisoners for questioning
+
+**Outcome:** The party gained two new companions and survived the Thornwood's dangers. They have kobold prisoners who may provide intelligence about Harrow Keep and the Poison Scale before the final approach.
+
+---
+
 ## Major Revelations
 
 **What the Party Has Learned:**
@@ -158,21 +179,22 @@ Animated plant creatures attack the Greenmark market as the party prepares for t
 
 ## Current Situation
 
-**Date:** Greenleaf 28th, 1247
+**Date:** Greenleaf 30th, 1247
 
-The ward on the Warren Stone is holding, but it's a temporary containment. The mist is now breaching wards in the Greenmark as well—the crisis is spreading. The party has the Source Stone needed for physical repair, but lacks the Tess-Kydra required to recharge the stone's magic.
-
-The party has recruited Wynn Copper as a frontline fighter and is preparing to depart for Harrow Keep with Lady Sera in tow.
+The party is camped in the deep Thornwood, within reach of Harrow Keep. They have kobold prisoners to interrogate before the final approach. Back in Westmarch, the ward on the Warren Stone is holding but the mist continues to breach wards in the Greenmark—the crisis is spreading.
 
 **Immediate Plans:**
-- Journey to Harrow Keep to retrieve the Tess-Kydra from the Poison Scale kobolds
+- Interrogate kobold prisoners for intelligence on Harrow Keep and the Poison Scale
+- Reach Harrow Keep and retrieve the Tess-Kydra
 - Audience with Duke Aldric upon return (arranged by Lady Sera)
 - Celindara remains a possible alternative destination, though much farther away
 
 **The Party:**
 - [Kaelen Vale](/characters/player-characters/kaelen-vale) — Ranger and scout
 - [Lyrique](/characters/player-characters/lyrique) — Bard and face
-- [Quill](/characters/player-characters/quill) — Researcher (status for this expedition unclear)
+- [Quill](/characters/player-characters/quill) — Fairy wizard
+- [Thalia](/characters/player-characters/thalia) — Halfling rogue and former investigator
+- [Drakov](/characters/player-characters/drakov) — Dragonborn cleric of Bahamut, Sera's bodyguard
 - [Lady Sera](/characters/npcs/lady-sera) — Noblewoman arcanist, the Duke's daughter
 - [Wynn Copper](/characters/npcs/wynn-copper) — Delver's Guild mercenary, frontline fighter
 
