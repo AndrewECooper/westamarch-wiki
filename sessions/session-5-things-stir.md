@@ -53,3 +53,4 @@ Before setting out, [Kaelen](/characters/player-characters/kaelen-vale) drew on 
 ---
 
 **Previous:** [Session 4: Questions and Alliances](/sessions/session-4-questions-and-alliances)
+**Next:** [Session 6: The Road to Harrow Keep](/sessions/session-6-the-road-to-harrow-keep)

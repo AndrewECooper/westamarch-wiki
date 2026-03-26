@@ -38,6 +38,7 @@ Keep people safe. Get paid. Follow [Lyrique](/characters/player-characters/lyriq
 - **Faction**: [Delver's Guild](/factions/delvers-guild)
 - **Guildmaster**: [Torven Blackoak](/characters/npcs/torven-blackoak)
 - **Infatuation**: [Lyrique](/characters/player-characters/lyrique)
+- **Friend**: [Thalia](/characters/player-characters/thalia)
 
 ---
 
