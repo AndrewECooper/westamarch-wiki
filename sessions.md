@@ -2,7 +2,7 @@
 title: Session Logs
 description: Chronicle of the Westmarch campaign sessions
 published: true
-date: 2026-03-25T21:00:00.000Z
+date: 2026-05-06T21:00:00.000Z
 tags: session, index
 editor: markdown
 dateCreated: 2026-02-11T21:00:00.000Z
@@ -18,7 +18,7 @@ A chronicle of the campaign, documenting the party's journey from their first me
 
 **Starting Date:** Greenleaf 14th, 1247
 
-**Current Date:** Greenleaf 30th, 1247
+**Current Date:** Greenleaf 31st, 1247
 
 ---
 
@@ -150,6 +150,29 @@ The party sets out for Harrow Keep with new allies and faces the dangers of the 
 
 ---
 
+### [Session 7: The Fall of the Chief](/sessions/session-7-the-fall-of-the-chief)
+
+**Date:** Greenleaf 30th–31st, 1247
+
+The party interrogates their kobold prisoners, negotiates with Chief Scris at Harrow Keep, and ends the day standing victorious over the courtyard.
+
+**Key Events:**
+- The party interrogated Torque, the largest captured kobold; learned the Poison Scale worship Verdanthis as a god and that she lairs at Harrow Keep
+- Lyrique built rapport with Torque over a cup-and-ball game, learning the kobolds frequently clash with gnolls ("dog men")
+- The party rested in a magical *Haven* and formed a plan: trade the kobolds' gnoll problem for the Tess-Kydra
+- Torque led them to Harrow Keep—ruined walls, rusted portcullis, a well, and a great tree in the central courtyard
+- Sera and Lyrique negotiated with Chief Scris "The Claw"; during the exchange the chief let slip "the great one left the bowl in our charge"—revealing Verdanthis is *not* at the keep, but the Tess-Kydra is
+- Scris broke off negotiations and ordered his warriors to attack
+- Quill controlled the field with *Freeze* and *Sleep*; Thalia rained sneak-attack arrows from cover
+- Kobolds with green-ichor poison breath badly hurt Wynn and Kaelen; Sera was dropped to 0 by a kobold longsword and revived by Drakov
+- Quill was knocked unconscious by *Magic Missile* and failed a death save falling out of the air; Drakov saved him with a second *Healing Word*
+- Drakov critical-hit Chief Scris with his mace and killed him outright
+- Lyrique paralyzed the kobold spellcaster with *Hold Person*; Wynn hogtied him
+
+**Outcome:** Chief Scris is dead, the kobold sorcerer is bound, and the remaining defenders are frozen, sleeping, or fled. The party holds the courtyard. The Tess-Kydra is somewhere in Harrow Keep—and Verdanthis, by the chief's own words, is not.
+
+---
+
 ## Major Revelations
 
 **What the Party Has Learned:**
@@ -166,6 +189,8 @@ The party sets out for Harrow Keep with new allies and faces the dangers of the 
 - The Duke wears a mysterious vial around his neck, meant to be passed down to Sera
 - The mist is now breaching wards beyond the Warrens—animated plant creatures attacked the Greenmark
 - Kobolds are weak individually but swarm in numbers and employ specialized magic users and alchemists
+- The Poison Scale worship Verdanthis as a god and clash regularly with gnolls in the deep Thornwood
+- The Tess-Kydra is held at Harrow Keep, but Verdanthis herself is *not* there—she left the relic in the kobolds' charge
 - Quill's curse is connected to all of this somehow—Lady Oona knows why but finds his suffering too entertaining to reveal
 
 **What They Don't Know:**
@@ -179,15 +204,15 @@ The party sets out for Harrow Keep with new allies and faces the dangers of the 
 
 ## Current Situation
 
-**Date:** Greenleaf 30th, 1247
+**Date:** Greenleaf 31st, 1247
 
-The party is camped in the deep Thornwood, within reach of Harrow Keep. They have kobold prisoners to interrogate before the final approach. Back in Westmarch, the ward on the Warren Stone is holding but the mist continues to breach wards in the Greenmark—the crisis is spreading.
+The party stands in the courtyard of [Harrow Keep](/locations/thornwood/harrow-keep). Chief Scris is dead, the kobold sorcerer is hogtied, and the rest of the Poison Scale defenders are frozen, asleep, or have fled into the ruins. The Tess-Kydra is somewhere inside the keep, but Verdanthis herself is not. Back in Westmarch, the ward on the Warren Stone is holding but the mist continues to breach wards in the Greenmark—the crisis is spreading.
 
 **Immediate Plans:**
-- Interrogate kobold prisoners for intelligence on Harrow Keep and the Poison Scale
-- Reach Harrow Keep and retrieve the Tess-Kydra
+- Decide what to do with the kobold prisoners and the bound sorcerer
+- Search Harrow Keep for the Tess-Kydra
+- Determine where Verdanthis actually lairs, since she isn't here
 - Audience with Duke Aldric upon return (arranged by Lady Sera)
-- Celindara remains a possible alternative destination, though much farther away
 
 **The Party:**
 - [Kaelen Vale](/characters/player-characters/kaelen-vale) — Ranger and scout
